@@ -1,0 +1,1 @@
+Python implementation of Component-Parameter inter-relation present in the EPC's Voltage source library. Used to generate a JSON from a realistic dependency between Components that would be used to control a power converter at CERN. 
